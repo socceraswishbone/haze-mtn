@@ -7,8 +7,8 @@ Style derived from Gazelle Postmod
 *********************************************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
-@import url(https://cdn.rawgit.com/socceraswishbone/haze-mtn/master/theme-dark.css);
-@import url(https://cdn.rawgit.com/socceraswishbone/haze-mtn/master/panel-dark.css);
+@import url(https://cdn.jsdelivr.net/gh/socceraswishbone/haze-mtn@master/theme-dark.css);
+@import url(https://cdn.jsdelivr.net/gh/socceraswishbone/haze-mtn@master/panel-dark.css);
 
 /* Custom Background Image */
 body {
